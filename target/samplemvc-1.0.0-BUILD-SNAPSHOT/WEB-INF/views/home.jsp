@@ -7,9 +7,6 @@
 <body>
 <h1>
 	Hello world!
-	${simpleString.simpleString} </h1>
-	<c:forEach var="list" items="${lists}">
-		${list.name }
-	</c:forEach>
+</h1>
 </body>
 </html>

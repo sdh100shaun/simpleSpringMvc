@@ -116,6 +116,12 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+		
+		<dependency>
+    <groupId>net.mailjimp</groupId>
+    <artifactId>mailjimp-core</artifactId>
+    <version>0.2</version>
+	</dependency>
 	
 		<!-- Test -->
 		<dependency>

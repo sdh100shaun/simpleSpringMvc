@@ -1,0 +1,5 @@
+#surefire
+#Mon Apr 11 21:44:06 BST 2011
+user.dir=/Users/shaunhare/Documents/core-spring-3.1.2.RELEASE/workspace/sampleMVC
+localRepository=/Users/shaunhare/.m2/repository
+basedir=/Users/shaunhare/Documents/core-spring-3.1.2.RELEASE/workspace/sampleMVC
